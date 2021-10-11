@@ -1,1 +1,3 @@
-# react_study_group
+# React Study Group
+## October - December 2021
+### Code.Sydney
